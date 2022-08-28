@@ -7,7 +7,7 @@ Spawn Selector for QB-Core Framework :eagle:
     Copyright (C) 2022 Spyx#4593
 
 ## Dependencies
-- [qb-multicharacter](https://github.com/qbcore-framework/qb-core](https://github.com/spyx4/qb-multicharacter/tree/main/qb-multicharacter)
+- [qb-multicharacter(https://github.com/spyx4/qb-multicharacter/tree/main/qb-multicharacter)
 - [qb-core](https://github.com/qbcore-framework/qb-core)
 - [qb-houses](https://github.com/qbcore-framework/qb-houses) - Lets player select the house
 - [qb-apartment](https://github.com/qbcore-framework/qb-apartment) - Lets player select the apartment
