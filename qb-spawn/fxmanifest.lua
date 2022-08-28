@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'QB-Spawn'
+description 'QB-Spawn by Spyx#4593'
 version '1.0.0'
 
 shared_scripts {
